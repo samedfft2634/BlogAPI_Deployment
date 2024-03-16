@@ -15,7 +15,7 @@ There is a few important things to be carefull on deployment...
 > Create deployment.
 
 > [!TIP]
-> Samples
+> Samples <br>
 > https://one8-blogapi-deployment.onrender.com/user => get users <br>
 > https://one8-blogapi-deployment.onrender.com/blog/posts => get posts  <br>
 > https://one8-blogapi-deployment.onrender.com/blog/posts/65f571ad8024ae37f6e9a1ab => get One Post with id  <br>
